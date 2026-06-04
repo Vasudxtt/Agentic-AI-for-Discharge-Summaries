@@ -192,25 +192,6 @@ Point out:
 
 ---
 
-## Recording Your Video
-
-**Recommended: QuickTime Player (built-in on Mac, free)**
-
-1. Open QuickTime Player
-2. File → New Screen Recording
-3. Click the dropdown arrow next to the record button → select your microphone
-4. Click the red record button, then click your screen area to begin
-5. When done: click the stop button in the menu bar → save
-
-**Suggested script (4 minutes):**
-- 0:00–0:30 — Architecture slide / diagram (explain the agent approach vs simple LLM)
-- 0:30–1:30 — Upload Patient_001, process, walk through the review screen
-- 1:30–3:00 — Upload Patient_003, show conflicts / missing / drug interaction, resolve a flag
-- 3:00–3:45 — Agent trace walkthrough (expand 2-3 steps)
-- 3:45–4:00 — Run learning loop, show reward chart
-
----
-
 ## Quick Start
 
 See [SETUP_GUIDE.md](SETUP_GUIDE.md) for full instructions.
